@@ -13,7 +13,7 @@ dans la barre des icone
 4-ouvrir son navigateur et saisir l'url : http://127.0.0.1/phpmyadmin/
 
 5- se connecter avec  
-**login** : "" et **mdp** : "" 
+**login** : "root" et **mdp** : "" 
 
 5-dans le menu **Privilège** cree un nouveau compte utilisateur
 
