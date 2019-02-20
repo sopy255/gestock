@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "values": [
+        {
+            "name": "Bruce lee",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non sint nulla deserunt doloribus, nam provident suscipit accusamus asperiores nisi eligendi minima illum, praesentium unde laboriosam, quo porro fuga eius ad!",
+            "url": "http://127.0.0.1/server/img/img1.jpg"
+    },
+        {
+            "name": "Aida",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non sint nulla deserunt doloribus, nam provident suscipit accusamus asperiores nisi eligendi minima illum, praesentium unde laboriosam, quo porro fuga eius ad!",
+            "url": "http://127.0.0.1/server/img/img2.jpg"
+    },
+        {
+            "name": "Falone",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non sint nulla deserunt doloribus, nam provident suscipit accusamus asperiores nisi eligendi minima illum, praesentium unde laboriosam, quo porro fuga eius ad!",
+            "url": "http://127.0.0.1/server/img/img3.jpg"
+    }
+]
+}
