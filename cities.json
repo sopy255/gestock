@@ -3,26 +3,26 @@
         {
             "name" : "Mandela",
             "description" : "lorem",
-            lat : 5.476772,
-            lng : 10.399422
+            "lat" : 5.476772,
+            "lng" : 10.399422
         },
         {
             "name" : "King Bell",
             "description" : "lorem",
-            lat : 5.476003,
-            lng : 10.423284
+            "lat" : 5.476003,
+            "lng" : 10.423284
         },
         {
             "name" : "Deo gracias",
             "description" : "lorem",
-            lat : 5.475661,
-            lng : 10.433412
+            "lat" : 5.475661,
+            "lng" : 10.433412
         },
         {
             "name" : "Sami city",
             "description" : "lorem",
-            lat : 5.483949,
-            lng : 10.418391
+            "lat" : 5.483949,
+            "lng" : 10.418391
         }
     ]
 }
